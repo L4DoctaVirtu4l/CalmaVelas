@@ -9,7 +9,7 @@
       "detalle": "( 200 g · 40 hs )",
       "precio": "$9.500",
       "color_banda": "tan",
-      "imagen": "/img/01.jpg"
+      "imagen": "/img/c01.png"
     },
     {
       "nombre": "Vainilla Cremosa",
@@ -17,7 +17,7 @@
       "detalle": "( 200 g · 40 hs )",
       "precio": "$9.500",
       "color_banda": "mauve",
-      "imagen": "/img/02.jpg"
+      "imagen": "/img/c02.png"
     },
     {
       "nombre": "Eucalipto Fresco",
@@ -25,7 +25,7 @@
       "detalle": "( 220 g · 45 hs )",
       "precio": "$9.800",
       "color_banda": "sage",
-      "imagen": "/img/03.jpg"
+      "imagen": "/img/c03.png"
     },
     {
       "nombre": "Sándalo & Ámbar",
@@ -33,7 +33,7 @@
       "detalle": "( 220 g · 45 hs )",
       "precio": "$10.500",
       "color_banda": "tan",
-      "imagen": "/img/04.jpg"
+      "imagen": "/img/c04.png"
     },
     {
       "nombre": "Té Blanco",
@@ -41,7 +41,7 @@
       "detalle": "( 180 g · 35 hs )",
       "precio": "$9.200",
       "color_banda": "mauve",
-      "imagen": "/img/05.jpg"
+      "imagen": "/img/c05.png"
     },
     {
       "nombre": "Flor de Algodón",
