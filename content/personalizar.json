@@ -1,14 +1,13 @@
 {
-  "titulo": "Personalizá tu vela",
-  "bajada": "Elegí forma, color y aroma. Te respondemos por WhatsApp con el precio y el tiempo de entrega.",
-  "imagen": "/img/hero.jpg",
-  "imagen_alt": "Velas de soja de distintas formas y colores",
-  "titulo_formas": "1. Elegí la forma",
-  "formas": [
-    "Pilar",
-    "Frasco",
-    "Cuenco"
+  "aromas": [
+    "Lavanda",
+    "Vainilla",
+    "Eucalipto",
+    "Sándalo",
+    "Sandia y pepino"
   ],
+  "boton": "Enviar mi vela por WhatsApp",
+  "titulo_aromas": "3. Elegí el aroma",
   "titulo_colores": "2. Elegí el color",
   "colores": [
     {
@@ -28,12 +27,14 @@
       "color": "#d3b496"
     }
   ],
-  "titulo_aromas": "3. Elegí el aroma",
-  "aromas": [
-    "Lavanda",
-    "Vainilla",
-    "Eucalipto",
-    "Sándalo"
+  "bajada": "Elegí forma, color y aroma. Te respondemos por WhatsApp con el precio y el tiempo de entrega.",
+  "imagen": "/img/hero.jpg",
+  "formas": [
+    "Pilar",
+    "Frasco",
+    "Cuenco"
   ],
-  "boton": "Enviar mi vela por WhatsApp"
+  "titulo": "Personalizá tu vela",
+  "titulo_formas": "1. Elegí la forma",
+  "imagen_alt": "Velas de soja de distintas formas y colores"
 }
