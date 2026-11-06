@@ -20,44 +20,44 @@
       "imagen": "/img/c02.png"
     },
     {
-      "nombre": "Eucalipto Fresco",
-      "descripcion": "Aire limpio para tu espacio de trabajo.",
+      "nombre": "Rostros de Calma",
+      "descripcion": "Nuevas velitas artesanales en vasitos de vidrio con relieve de rostros. Perfectas para crear un rincón cálido y acogedor en tu hogar, combinando diseño y armonía en cada espacio.",
       "detalle": "( 220 g · 45 hs )",
       "precio": "$9.800",
       "color_banda": "sage",
       "imagen": "/img/c03.png"
     },
     {
-      "nombre": "Sándalo & Ámbar",
-      "descripcion": "Notas amaderadas, cálidas y profundas.",
+      "nombre": "Souvenirs Escultura",
+      "descripcion": "Volitas artesanales en frascos de vidrio decorados, con detalles de perlas y dijes (como el ojo turco). Ideales para comuniones, bautismos, baby showers, cumpleaños y eventos especiales.",
       "detalle": "( 220 g · 45 hs )",
       "precio": "$10.500",
       "color_banda": "tan",
       "imagen": "/img/c04.png"
     },
     {
-      "nombre": "Té Blanco",
-      "descripcion": "Liviana, limpia y delicada.",
+      "nombre": "Ganesha y Flor de Loto",
+      "descripcion": "Velas artesanales que transmiten paz, amor y buenas energías. Incluye la figura de Ganesha, símbolo de prosperidad y protección, y una flor de loto, símbolo de pureza y renovación.",
       "detalle": "( 180 g · 35 hs )",
-      "precio": "$9.200",
+      "precio": "$12.000",
       "color_banda": "mauve",
       "imagen": "/img/c05.png"
     },
     {
-      "nombre": "Flor de Algodón",
-      "descripcion": "Aroma a ropa recién lavada.",
+      "nombre": "Latas Decorativas Mármol",
+      "descripcion": "Latas de velas decorativas con acabado marmoleado. Elegí tu color favorito y personalizá el aroma que más te guste para llenar tus espacios de magia.",
       "detalle": "( 180 g · 35 hs )",
       "precio": "$9.200",
       "color_banda": "sage",
       "imagen": "/img/c06.png"
     },
     {
-      "nombre": "Cítricos del Sur",
-      "descripcion": "Naranja y bergamota para despertar.",
+      "nombre": "Velas en Flor de Souvenir",
+      "descripcion": "Delicadas velas artesanales en forma de flores en frascos de vidrio. Ideales para cumpleaños, 15 años, bautismos, casamientos, baby showers y eventos especiales.",
       "detalle": "( 200 g · 40 hs )",
       "precio": "$9.800",
       "color_banda": "tan",
-      "imagen": "/img/07.jpg"
+      "imagen": "/img/ct07.png"
     },
     {
       "nombre": "Jazmín Nocturno",
