@@ -1,6 +1,6 @@
 {
   "mensaje_personalizar": "Hola! Quiero personalizar mi vela. Forma: {forma}. Color: {color}. Aroma: {aroma}.",
-  "logo": "/img/logo.png",
+  "logo": "/img/logo.jpg",
   "descripcion": "Velas de soja artesanales. Elegí del catálogo o diseñá la tuya.",
   "logo_texto": "Calma",
   "colores": {
