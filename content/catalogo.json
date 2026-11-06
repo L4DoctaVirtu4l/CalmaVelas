@@ -60,28 +60,28 @@
       "imagen": "/img/ct07.png"
     },
     {
-      "nombre": "Jazmín Nocturno",
-      "descripcion": "Floral intenso para las noches.",
+      "nombre": "Vela Hamsa Protectora",
+      "descripcion": "Vela artesanal con la forma de la mano de Fátima (Hamsa), detalle simbólico de protección, armonía y buenas energías para tus espacios.",
       "detalle": "( 200 g · 40 hs )",
-      "precio": "$10.200",
+      "precio": "$12.200",
       "color_banda": "mauve",
-      "imagen": "/img/08.jpg"
+      "imagen": "/img/ct08.png"
     },
     {
-      "nombre": "Bosque de Pino",
-      "descripcion": "Verde, fresco y silvestre.",
+      "nombre": "Osito tierno personalizado",
+      "descripcion": "Vela artesanal decorativa en vaso de vidrio con la figura de un tierno osito con lazo rosado y etiqueta personalizada con nombre, ideal para recuerdos y detalles especiales.",
       "detalle": "( 250 g · 50 hs )",
-      "precio": "$10.500",
+      "precio": "$14.500",
       "color_banda": "sage",
-      "imagen": "/img/09.jpg"
+      "imagen": "/img/ct09.png"
     },
     {
-      "nombre": "Set Trío Mini",
-      "descripcion": "Tres velas mini para regalar.",
+      "nombre": "Osito y Rosas",
+      "descripcion": "Vela artesanal decorativa en vaso de vidrio con un osito, detalles de flores y una tarjeta colgante con la inscripción \"para ti mi amor\", ideal para regalar en ocasiones especiales.",
       "detalle": "( 3 x 80 g )",
       "precio": "$14.900",
       "color_banda": "tan",
-      "imagen": "/img/10.jpg"
+      "imagen": "/img/ct10.png"
     }
   ]
 }
